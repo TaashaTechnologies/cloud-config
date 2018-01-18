@@ -11,7 +11,7 @@ eureka:
 
 security:
   user:
-    password: root
+    password: Ashapurasoftech_1234
 
 logging:
   level:
@@ -23,7 +23,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/auth
     username: root
-    password: root
+    password: Ashapurasoftech_1234
     driver-class: com.mysql.jdbc.Driver
 
   jpa:
